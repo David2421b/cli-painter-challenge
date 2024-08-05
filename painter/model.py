@@ -71,6 +71,7 @@ class Rectangle:
         x2,y2 = self.point_2
         return f"Rectangle with vertices at {x1, y1} and {x2, y2}"
 
+
 class Painter:
 
     FILE = ".painter"
